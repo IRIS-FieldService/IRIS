@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githack.com/iris-fieldservice/iris/master/builds/IRIS5_2.ipa</string>
+					<string>https://raw.githack.com/iris-fieldservice/iris/master/builds/SGLearn.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ballytech.BallyFieldService</string>
+				<string>com.BallyTech.SGLearn</string>
 				<key>bundle-version</key>
-				<string>5.2</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>IRIS5_2</string>
+				<string>SGLearn</string>
 			</dict>
 		</dict>
 	</array>
