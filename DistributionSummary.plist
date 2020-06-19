@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SystemHardware.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>630D757A7D44287355D9BE3435916603F84A6C36</string>
+				<key>dateExpires</key>
+				<string>31/08/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>S576PXE4T3.com.BallyTech.SystemHardware</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>S576PXE4T3</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>S576PXE4T3.com.BallyTech.SystemHardware</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SystemHardware.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e4488625-0be8-402a-9387-a554869ebe19</string>
+				<key>name</key>
+				<string>SystemHardwareCatalogue2020</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>S576PXE4T3</string>
+				<key>name</key>
+				<string>Bally Technologies Inc</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
